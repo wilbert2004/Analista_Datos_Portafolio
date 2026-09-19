@@ -1,18 +1,51 @@
-# React + Vite
+# 🌐 Portafolio Web - Wilbert Oliver Chan Uc
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este portafolio web está desarrollado con **React + Vite** y estilizado con **Tailwind CSS**.  
+Su propósito es mostrar mis proyectos de **análisis de datos en Power BI** y mi experiencia en desarrollo web y backend.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Tecnologías utilizadas
 
-## React Compiler
+- ⚛️ **React + Vite** → Framework moderno para frontend.
+- 🎨 **Tailwind CSS** → Estilos responsive y diseño profesional.
+- 📊 **Power BI** → Dashboards interactivos y visualización de datos.
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+---
 
-Note: This will impact Vite dev & build performances.
+## 📂 Proyectos destacados
 
-## Expanding the ESLint configuration
+- 🌍 **[Ventas Globales](https://github.com/wilbert2004/Portafolio_PowerBI/tree/main/Ventas_Globales)**  
+  Análisis de ventas por año, región y producto.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚰️ **[Mortalidad de Vida General](https://github.com/wilbert2004/Portafolio_PowerBI/tree/main/Mortalidad_Vida_General)**  
+  Indicadores demográficos y de salud global.
+
+- 🛒 **[TechStore México](https://github.com/wilbert2004/Portafolio_PowerBI/tree/main/TechStore_Mexico)**  
+  Rendimiento de ventas por categoría, producto y estado.
+
+- 👥 **[Empleados](https://github.com/wilbert2004/Portafolio_PowerBI/tree/main/Empleados)**  
+  Análisis de personal: sueldo, edad, evaluación y departamentos.
+
+- 📱 **[Ventas de Smartphones](https://github.com/wilbert2004/Portafolio_PowerBI/tree/main/Ventas_Smartphones)**  
+  Ranking de modelos vendidos y producto estrella.
+
+---
+
+## 🎯 Objetivo
+
+Este portafolio refleja mi capacidad para:
+
+- Crear **dashboards interactivos** que convierten datos en insights estratégicos.
+- Desarrollar **aplicaciones web modernas** con React y Tailwind.
+- Modelar y administrar **bases de datos** en PostgreSQL.
+- Integrar **frontend + backend** en proyectos completos.
+
+---
+
+## 🌐 Sobre mí
+
+Soy **Wilbert Oliver Chan Uc**, estudiante de Ingeniería en Sistemas Computacionales apasionado por el desarrollo de software y la analítica de datos.  
+Puedes conocer más de mi trabajo en mi [portafolio web](https://wilbertcv.netlify.app/) o en mi [LinkedIn](https://www.linkedin.com/in/wilbert-chan-uc).
+
+---
