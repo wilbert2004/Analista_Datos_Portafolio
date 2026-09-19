@@ -1,19 +1,19 @@
 function About() {
   return (
-    <main className="bg-[#07132c] px-4 py-10 md:px-6">
+    <section className="bg-[#07132c] px-4 py-10 md:px-6">
       <section
         id="sobre-mi"
-        className="mx-auto max-w-[1200px] rounded-xl border border-slate-500/40 bg-[#1d2f42]/90 px-8 py-8 md:px-12 md:py-10"
+        className="mx-auto max-w-300 rounded-xl border border-slate-500/40 bg-[#1d2f42]/90 px-8 py-8 md:px-12 md:py-10"
       >
         <p className="mb-5 text-[0.75rem] font-bold uppercase tracking-[0.14em] text-cyan-400">
           ANALISTA DE DATOS
         </p>
 
-        <h1 className="mb-6 max-w-[1100px] text-3xl font-black leading-relaxed tracking-[-0.04em] text-white md:text-[3.2rem]">
+        <h1 className="mb-6 max-w-275 text-3xl font-black leading-relaxed tracking-[-0.04em] text-white md:text-[3.2rem]">
           Convierto datos en decisiones de negocio
         </h1>
 
-        <div className="max-w-[1100px] space-y-4 text-base leading-relaxed text-slate-300 md:text-[1.18rem]">
+        <div className="max-w-275 space-y-4 text-base leading-relaxed text-slate-300 md:text-[1.18rem]">
           <p>
             Soy Wilbert Chan, estudiante de Ingeniería en Sistemas apasionado
             por el Análisis de Datos y la Inteligencia de Negocios.
@@ -43,7 +43,7 @@ function About() {
           </a>
 
           <a
-            href="../../../public/cv/CV Wilbert Oliver analista (1).pdf"
+            href="/cv/CV%20Wilbert%20Oliver%20analista%20(1).pdf"
             download
             className="inline-flex items-center justify-center rounded-lg border border-slate-600 bg-slate-700 px-6 py-3 text-base font-semibold text-white transition hover:bg-slate-600"
           >
@@ -51,7 +51,7 @@ function About() {
           </a>
         </div>
       </section>
-    </main>
+    </section>
   );
 }
 

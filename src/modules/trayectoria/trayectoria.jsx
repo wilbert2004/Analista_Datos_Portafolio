@@ -15,7 +15,7 @@ const metrics = [
 
 function Trayectoria() {
   return (
-    <main
+    <section
       id="trayectoria"
       className="bg-[#07132c] px-6 py-14 text-white md:px-12 lg:px-16"
     >
@@ -31,7 +31,7 @@ function Trayectoria() {
         <section className="grid items-center gap-12 lg:grid-cols-[490px_1fr]">
           <div className="overflow-hidden rounded-[28px]">
             <img
-              src="../../../public/wilbert.jpg"
+              src="/wilbert.jpg"
               alt="Retrato de Wilbert Chan"
               className="h-[490px] w-full object-cover"
             />
@@ -73,7 +73,7 @@ function Trayectoria() {
           </div>
         </section>
       </div>
-    </main>
+    </section>
   );
 }
 

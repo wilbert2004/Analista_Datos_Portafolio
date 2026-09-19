@@ -18,7 +18,7 @@ Correo: ${email}
 Mensaje:
 ${message}`;
 
-    window.location.href = `mailto:wilbert.chan@example.com?subject=${encodeURIComponent(
+    window.location.href = `mailto:chanucwilbertoliver@gmail.com?subject=${encodeURIComponent(
       subject,
     )}&body=${encodeURIComponent(body)}`;
 
@@ -43,7 +43,7 @@ ${message}`;
         <div className="grid gap-16 lg:grid-cols-[1.25fr_0.75fr]">
           <form
             onSubmit={handleSubmit}
-            className="rounded-[24px] border border-slate-600/80 bg-[#1b2948] p-8 md:p-12"
+            className="rounded-3xl border border-slate-600/80 bg-[#1b2948] p-8 md:p-12"
           >
             <h3 className="mb-8 text-2xl font-black">Envíame un mensaje</h3>
 
@@ -130,7 +130,7 @@ ${message}`;
 
             <div className="space-y-7">
               <a
-                href="mailto:wilbert.chan@example.com"
+                href="mailto:chanucwilbertoliver@gmail.com"
                 className="flex items-center gap-5 transition hover:text-cyan-400"
               >
                 <span className="text-3xl text-cyan-400">✉</span>

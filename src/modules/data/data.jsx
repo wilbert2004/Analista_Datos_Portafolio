@@ -2,7 +2,7 @@
 const projects = [
   {
     id: 1,
-    title: "🌍 Ventas Globales",
+    title: "Ventas Globales",
     description:
       "Dashboard en Power BI con análisis de ventas por año, región y producto. Incluye KPIs y tendencias de negocio.",
     image: "ventas_globales.png",
@@ -11,7 +11,7 @@ const projects = [
   },
   {
     id: 2,
-    title: "⚰️ Mortalidad de Vida General",
+    title: "Mortalidad de Vida General",
     description:
       "Análisis demográfico y de salud global: población, esperanza de vida y mortalidad por continente.",
     image: "mortalidad.png",
@@ -20,7 +20,7 @@ const projects = [
   },
   {
     id: 3,
-    title: "🛒 TechStore México",
+    title: "TechStore México",
     description:
       "Dashboard de ventas por categoría, producto y estado. KPIs de desempeño comercial.",
     image: "techstore.png",
@@ -29,7 +29,7 @@ const projects = [
   },
   {
     id: 4,
-    title: "👥 Empleados",
+    title: "Empleados",
     description:
       "Análisis de personal: sueldo promedio, edad, evaluación y distribución por departamento y estado.",
     image: "empleados.png",
@@ -38,7 +38,7 @@ const projects = [
   },
   {
     id: 5,
-    title: "📱 Ventas de Smartphones",
+    title: "Ventas de Smartphones",
     description:
       "Dashboard en Power BI que analiza las ventas de distintos modelos de smartphones, mostrando métricas de unidades vendidas, porcentaje de participación y productos más vendidos.",
     image: "ventassmartphones.png",
